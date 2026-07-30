@@ -1,8 +1,8 @@
-Example Website With httk.web
------------------------------
+Example Website With httk-serve
+-------------------------------
 
 This repository is a simple starter for building a semi-static website with a
-blog using ``httk.web`` from ``httk-web``.
+blog using ``httk.serve.web`` from *httk-serve*.
 
 Quick start
 -----------
@@ -53,4 +53,4 @@ More information
 
 For full documentation, see:
 
-- https://docs2.httk.org/httk-web/
+- https://docs.httk.org/httk-serve/
